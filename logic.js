@@ -27,3 +27,8 @@ valueNumbers.forEach((valueNumber)=> {
   }, duration);
 });
 
+
+function showHi() {
+  alert("Our hosting service not supported backend ");
+}
+
