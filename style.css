@@ -197,7 +197,10 @@ form input,textarea{
         margin: 0 auto;
         text-align: center;
         width: 116px;
-        
+    }
+    .col-4 {
+        flex: 0 0 auto;
+        width: 49.333333%;
     }
 
     }
